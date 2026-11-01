@@ -1,12 +1,19 @@
-# 嗨，我是 @_@ 👋
-希望認識更多的人，學習更多的知識
+# 嗨，我是 賴品錞 (jannie1224) 👋
+
+<p align="left">
+  <img src="https://shields.io" alt="逢甲資工一年級">
+</p>
+
+> 💡 希望認識更多的人，學習更多的知識
+
 ---
 
 ### 🎓 學歷 (Education)
-- 🏫 **逢甲大學** - 資訊工學學系（一年級在學）
-- 🏫 **彰化女中**
-- 🏫 **陽明國中**
-- 🏫 **民生國小**
+
+- 🏫 **逢甲大學** ｜ 資訊工程學系（一年級在學，2026～）
+- 🏫 **國立彰化女子高級中學**
+- 🏫 **彰化縣立陽明國民中學**
+- 🏫 **彰化市民生國民小學**
 
 ---
 
@@ -25,9 +32,38 @@
 
 ---
 
+### 🛠️ 技術與工具 (Skills)
+
+<!-- 這裡幫你預設了資工系常用的基礎工具，你可以根據實際學習進度自由調整 -->
+![C](https://shields.io)
+![Python](https://shields.io)
+![Markdown](https://shields.io)
+![Git](https://shields.io)
+![GitHub](https://shields.io)
+
+---
+
+### 📊 GitHub 數據統計
+
+<p align="center">
+  <img src="https://vercel.app" alt="jannie1224 Stats" height="160" />
+  <img src="https://vercel.app" alt="Top Langs" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://vercel.app" alt="jannie1224 Activity Graph" width="100%" />
+</p>
+
+---
+
 ### 📫 聯絡我 (Contact Me)
+
 歡迎透過以下平台與我交流或合作：
 
-GitHub : https://github.com/jannie1224
+* 💻 **GitHub:** [jannie1224](https://github.com/jannie1224)
+* ✉️ **Email:** [jannie961224@gmail.com](mailto:jannie961224@gmail.com)
 
-Email : jannie961224@gmail.com
+---
+<p align="center">
+  歡迎光臨我的 GitHub 頁面！ 📊 瀏覽人次：![訪客計數器](https://glitch.me)
+</p>
