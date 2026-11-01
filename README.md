@@ -1,6 +1,6 @@
 # 嗨，我是 @_@ 👋
----
 希望認識更多的人，學習更多的知識
+---
 
 ### 🎓 學歷 (Education)
 - 🏫 **逢甲大學** - 資訊工學學系（一年級在學）
@@ -28,7 +28,6 @@
 ### 📫 聯絡我 (Contact Me)
 歡迎透過以下平台與我交流或合作：
 
-[![GitHub](https://shields.io)](https://github.com/jannie1224)
-[![Email](https://shields.io)](mailto:jannie961224@gmail.com)
+GitHub : https://github.com/jannie1224
 
-![Views](https://komarev.com)
+Email : jannie961224@gmail.com
