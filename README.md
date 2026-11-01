@@ -1,11 +1,17 @@
-# 嗨，我是 賴品錞 👋
+ <main class="container">
+        <!-- 卡片 1：專業技能 -->
+        <section class="card">
+            <h2>學歷</h2>
+            <ul class="skills-list">
+                <li>民生國小</li>
+                <li>陽明國中</li>
+                <li>彰化女中</li>
+                <li>逢甲大學 資訊工學學系 一年級</li>
+            </ul>
+        </section>
 
-    學歷
-        民生國小
-        陽明國中
-        彰化女中
-        逢甲大學 資訊工學學系 一年級
-<section class="card">
+        <!-- 卡片 2：個人經歷 -->
+        <section class="card">
             <h2>個人經歷</h2>
             <div class="timeline-item">
                 <strong>高中時期</strong>
@@ -23,3 +29,15 @@
                 <p>逢甲大學黑客社</p>
             </div>
         </section>
+
+        <!-- 卡片 3：社群連結 -->
+        <section class="card text-center">
+            <h2>📫 聯絡我</h2>
+            <p>歡迎透過以下平台與我交流或合作：</p>
+            <!-- 找到這段代碼，並把 # 換成您真正的社群網址 -->
+            <div class="links-group">
+            <a href="https://github.com/jannie1224" target="_blank" class="btn btn-github">GitHub</a>
+            <a href="jannie961224@gmail.com" class="btn btn-email">Email 郵件</a>
+        </div>
+        </section>
+    </main>
