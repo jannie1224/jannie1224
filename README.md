@@ -10,6 +10,3 @@
 
 ---
 
-### 🛠️ 我的專長與工具 (Skills)
-<!-- 這裡使用免費的 Badge 圖片來增加視覺效果 -->
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
