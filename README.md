@@ -1,16 +1,41 @@
-## Hi there 👋
+# 嗨，我是 賴品錞 👋
 
-<!--
-**jannie1224/jannie1224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🏫 逢甲大學 資訊工程學系 一年級
+> 想遇到更多的人，學習更多的知識
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 學歷
+- **逢甲大學** 資訊工程學系 一年級
+- **彰化女中**
+- **陽明國中**
+- **民生國小**
+
+---
+
+## ⏳ 個人經歷
+
+### 🏛️ 大學時期
+- **智策AI**：2026 資策會 AI 創新實戰大賽 - 隊長（未入選初賽）
+- **2026 第十屆國語文徵文競賽**：講進心坎裡──第四屆廣告金句簡報比賽
+- **逢甲大學黑客社**
+
+### 🎒 高中時期
+- 2 次自主學習成果展
+- 台積電自主學習課程
+- 機器人社團 - 樂高 EV3 機器人
+- 戀戀半線 - 偏鄉國中科普推廣計畫
+- 咖啡中的科學 - 選修課
+- 當代珠寶設計 - 選修課
+
+---
+
+## 📫 聯絡我
+歡迎透過以下平台與我交流或合作：
+
+Github : jannie1224
+
+Gmail : jannie961224@gmail.com
+
+---
+<p align="center">© 2026 賴品錞. My personal introduction website</p>
