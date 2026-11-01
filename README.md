@@ -10,8 +10,7 @@
             </ul>
         </section>
 
-        <!-- 卡片 2：個人經歷 -->
-        <section class="card">
+  
             <h2>個人經歷</h2>
             <div class="timeline-item">
                 <strong>高中時期</strong>
@@ -30,8 +29,7 @@
             </div>
         </section>
 
-        <!-- 卡片 3：社群連結 -->
-        <section class="card text-center">
+     
             <h2>📫 聯絡我</h2>
             <p>歡迎透過以下平台與我交流或合作：</p>
             <!-- 找到這段代碼，並把 # 換成您真正的社群網址 -->
