@@ -33,7 +33,7 @@
 ## 📫 聯絡我
 歡迎透過以下平台與我交流或合作：
 
-Github : jannie1224
+Github :[jannie1224](https://github.com/jannie1224)
 
 Gmail : jannie961224@gmail.com
 
